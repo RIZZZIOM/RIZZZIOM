@@ -29,6 +29,9 @@ A stealthy Windows keylogger for educational purposes and ethical research.
 ### 📡 **[Pcapper](https://github.com/RIZZZIOM/pcapper.git)**
 Capture and analyze network traffic with precision.
 
+### 🔍 **[PhishMeNot](https://github.com/RIZZZIOM/PhishMeNot.git)**
+A basic phishing simulation tool inspired by GoPhish.
+
 ---
 
 # 🧩 Stuff I Can Work On/With
