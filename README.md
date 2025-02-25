@@ -4,7 +4,7 @@
 
 # Hi, I'm Moiz 👋
 
-I'm an **IT student** passionate about **cybersecurity** 🔐 and honing my skills in **red** and **blue teaming**. I hold a **Certified Ethical Hacker (CEH)** certification and thrive on solving CTF challenges, building cyber security tools and learning new concepts.
+I'm an **IT student** passionate about **cybersecurity** 🔐 and honing my skills in **red** and **blue teaming**. I hold a **Certified Ethical Hacker (CEH)** and **Certified Red Team Professional (CRTP)** certification and thrive on solving CTF challenges, building cyber security tools and learning new concepts.
  
 - 🔑 I publish CTF writeups on [Medium](https://medium.com/@rizzziom).
 - 🎮 I love playing video games.
