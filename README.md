@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image/banner.webp" alt="Banner" width="1000" height="200">
+  <img src="banner.webp" alt="Banner">
 </div>
 
 # Hi, I'm Moiz
