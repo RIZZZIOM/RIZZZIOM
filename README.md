@@ -1,14 +1,12 @@
 <div align="center">
-  <img src="https://i.gifer.com/RXi9.gif" alt="Cybersecurity Banner" width="1000" height="200">
+  <img src="image/banner.webp" alt="Banner" width="1000" height="200">
 </div>
 
 # Hi, I'm Moiz
 
-I work in cybersecurity with a focus on red and purple teaming.
-Most of what I do revolves around learning, building and breaking things to understand them better. Most of my learning ends up here — experiments, tools, and writeups that helped me grow.
+I work in cybersecurity with a focus on red and purple teaming. Most of what I do revolves around learning, building, and breaking things to understand them better. Much of that learning ends up here in the form of experiments and tools I’ve built.
 
 - I write CTF and security notes on [Medium](https://medium.com/@rizzziom).  
-- I enjoy building practical tools and exploring how systems break.  
 
 ---
 
