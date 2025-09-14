@@ -2,7 +2,7 @@
 
 I work in cybersecurity with a focus on red and purple teaming. Most of what I do revolves around learning, building, and breaking things to understand them better. Much of that learning ends up here in the form of experiments and tools I’ve built.
 
-- I write CTF and security notes on [Medium](https://medium.com/@rizzziom).  
+- I share CTF writeups and security notes on my blog. (Currently on [Medium](https://medium.com/@rizzziom), moving soon to my website.)
 
 ---
 
