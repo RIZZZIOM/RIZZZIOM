@@ -6,7 +6,7 @@ I work in cybersecurity with a focus on red and purple teaming. Most of what I d
 
 ---
 
-## Few Projects
+## Selected Projects
 - **[nemesis](https://github.com/RIZZZIOM/nemesis)** – CLI tool to query the National Vulnerability Database.  
 - **[brutalle](https://github.com/RIZZZIOM/brutalle)** – A Python shell with reverse shell capabilities, file transfer, and cleanup features.  
 - **[CreepLog](https://github.com/RIZZZIOM/creeplog)** – Windows keylogger built for research and educational purposes.  
